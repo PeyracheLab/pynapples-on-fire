@@ -1,4 +1,4 @@
-<img src="pynapples-on-fire.png" width="800">
+<img src="pynapples-on-fire.png" width="600">
 
 
 # pynapples-on-fire
