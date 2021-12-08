@@ -2,4 +2,4 @@
 
 
 # pynapples-on-fire
-High level pythons scripts based on pynapple for neural data analysis
+Context manager for parallel computing with pynapple. 
